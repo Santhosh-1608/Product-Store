@@ -25,3 +25,26 @@ Follow these steps to get the project up and running on your local machine:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/product-store-app.git
+2.  **Install dependencies**:
+    -  Navigate to the backend directory: `cd backend`
+    ```bash
+    npm install
+    -   Navigate to the frontend directory: `cd frontend`
+    ```bash
+    npm install
+3.   **Start the backend server**:
+    ```bash
+       npm run dev
+4.    **Start the development server**:
+    ```bash
+    npm start  
+
+## Important Links:
+- [Live Demo](https://product-store-av7g.onrender.com)
+- [repo link](https://github.com/Santhosh-1608/Product-Store)
+
+
+
+
+
+
