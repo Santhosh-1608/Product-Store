@@ -18,26 +18,23 @@ This is a full-stack **Product Store Application** designed to manage products e
 - **Database:** MongoDB
 
 
+
 ## 📋 Setup Instructions
 
 Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/product-store-app.git
-2.  **Install dependencies**:
-    -  Navigate to the backend directory: `cd backend`
+   git clone https://github.com/Santhosh-1608/Product-Store
+2. **Install dependencies**:
     ```bash
     npm install
-    -   Navigate to the frontend directory: `cd frontend`
+3. **Start the backend Server**
     ```bash
-    npm install
-3.   **Start the backend server**:
+    npm run dev
+4. **Start the development Server**
     ```bash
-       npm run dev
-4.    **Start the development server**:
-    ```bash
-    npm start  
+    npm start
 
 ## Important Links:
 - [Live Demo](https://product-store-av7g.onrender.com)
